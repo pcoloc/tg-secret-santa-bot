@@ -1,2 +1,5 @@
 python-telegram-bot==13.8.1
 toml
+standard-imghdr
+urllib3
+Pyrebase4 
